@@ -6,7 +6,7 @@ We're not the only organization in the Git ecosystem making these changes: there
 
 We're making changes to GitHub in a few phases, designed to cause as little disruption to existing projects as possible.
 
-## What's already changed
+### What's already changed
 
 - [We've updated GitHub.com](https://github.blog/changelog/2020-07-17-links-to-deleted-branches-now-redirect-to-the-default-branch/) to redirect links that contain the deleted branch name such as `master` to the corresponding link in the repository's new default branch.
 - [We've updated GitHub Pages](https://github.blog/changelog/2020-07-31-build-and-deploy-github-pages-from-any-branch-beta/) to build and deploy from any branch.
